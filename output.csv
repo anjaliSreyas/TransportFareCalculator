@@ -1,0 +1,2 @@
+busNumber,companyId,durationInSec,endStop,panNumber,rideEndedAt,rideStartedAt,startStop,status,totalFare
+Bus37,Company1,0,Stop2,5500005555555559,2018-01-22T13:05,2018-01-22T13:00,Stop1,COMPLETED,3.5
